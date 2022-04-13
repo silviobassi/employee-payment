@@ -1,0 +1,1 @@
+ALTER TABLE employees CHANGE daily_value daily_value DECIMAL(19, 2) NOT NULL;
